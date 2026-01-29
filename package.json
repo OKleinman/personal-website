@@ -1,5 +1,5 @@
 {
-  "name": "personal-website",
+  "name": "devportfolio",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -9,10 +9,8 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/mdx": "^4.3.13",
-    "@astrojs/rss": "^4.0.15",
-    "@astrojs/sitemap": "^3.7.0",
-    "astro": "^5.17.1",
-    "sharp": "^0.34.3"
+    "@tailwindcss/vite": "^4.1.11",
+    "astro": "^5.12.3",
+    "tailwindcss": "^4.1.11"
   }
 }
