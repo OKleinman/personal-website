@@ -1,12 +1,12 @@
 export const siteConfig = {
-  name: "Ryan Fitzgerald",
-  title: "Senior Software Engineer",
-  description: "Portfolio website of Ryan Fitzgerald",
-  accentColor: "#1d4ed8",
+  name: "Oliver Kleinman",
+  title: "Student researcher interested in modelling incentives, behavior, and strategic decision-making.",
+  description: "Personal website of Oliver Kleinman",
+  accentColor: "#be1e2d",
   social: {
-    email: "your-email@example.com",
-    linkedin: "https://linkedin.com/in/yourprofile",
-    twitter: "https://x.com/rfitzio",
+    email: "oliverksf21@gmail.com",
+    linkedin: "https://www.linkedin.com/in/oliver-kleinman-714135263/",
+    // twitter: "https://x.com/rfitzio",
     github: "https://github.com/RyanFitzgerald",
   },
   aboutMe:
