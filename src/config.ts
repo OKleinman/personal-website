@@ -18,7 +18,7 @@ export const siteConfig = {
       description:
         "Developed fixed-income comparison instruments showing Charitable Gift Annuities are a more profitable financial vehicle than Commercial Annuities in 53% of age-tax-bracket pairings, yet remain underutilized, most likely due to poor marketing.",
       link: "",
-      skills: ["React", "Node.js", "AWS"],
+      skills: ["R", "Behavioral Economics"],
     },
     {
       name: "Textual Philosophical Aligment Classifier",
