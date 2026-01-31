@@ -69,8 +69,8 @@ export const siteConfig = {
   ],
   education: [
     {
-      school: "University of Pennsylvania",
-      degree: "Philosophy, Politics and Economics, BA: Choice & Behavior, Minor in Data Science",
+      school: "Philosophy, Politics and Economics, BA: Choice & Behavior, Minor in Data Science",
+      degree: "University of Pennsylvania",
       dateRange: "2023 - 2027",
       achievements: [
         "Data Science Club Team Leader, German Society Board, Venture Lab Member, Archery Club",
@@ -79,8 +79,8 @@ export const siteConfig = {
       ],
     },
     {
-      school: "Other Education and Certifications",
-      degree: "",
+      school: "",
+      degree: "Other Education and Certifications",
       dateRange: "",
       achievements: [
         "City College of San Francisco - Intro to Programming (Spring 2021)",
