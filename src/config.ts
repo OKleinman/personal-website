@@ -4,7 +4,7 @@ export const siteConfig = {
   description: "Personal website of Oliver Kleinman",
   accentColor: "#be1e2d",
   social: {
-    email: "oliverksf21@gmail.com",
+    email: "ok1@sas.upenn.edu",
     linkedin: "https://www.linkedin.com/in/oliver-kleinman-714135263/",
     // twitter: "https://x.com/rfitzio",
     github: "https://github.com/OKleinman",
