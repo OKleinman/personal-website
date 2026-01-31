@@ -14,25 +14,25 @@ export const siteConfig = {
   skills: ["SQL/BigQuery", "R", "Python", "ArcGIS", "Behavioral Economics", "Optimization", "Communicatioon", "German", "Spanish"],
   projects: [
     {
-      name: "AI Dev Roundup Newsletter",
+      name: "Fixed-Income and Annuities Instrument",
       description:
-        "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
-      link: "https://aidevroundup.com/?ref=devportfolio",
+        "Developed fixed-income comparison instruments showing Charitable Gift Annuities are a more profitable financial vehicle than Commercial Annuities in 53% of age-tax-bracket pairings, yet remain underutilized, most likely due to poor marketing.",
+      link: "",
       skills: ["React", "Node.js", "AWS"],
     },
     {
-      name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
+      name: "Textual Philosophical Aligment Classifier",
       description:
-        "Master the art of building production-ready, full-stack Chrome Extensions using modern web technologies and best practices",
-      link: "https://fullstackextensions.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "Applied Word2Vec embeddings with LSTM and BiLSTM models to classify text by philosophical alignment using a corpus of philosophical texts with 89% accuracy.",
+      link: "",
+      skills: ["Python", "Optimization"],
     },
     {
-      name: "ExtensionKit",
+      name: "Nationalization Spatial Data Analysis",
       description:
-        "Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates & examples",
-      link: "https://extensionkit.io/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "Analyzed the nationalization levels of three countries across local and federal geographies, visualizing detailed trends in nationalization over time.",
+      link: "",
+      skills: ["R", "ArcGIS", "Communication"],
     },
   ],
   experience: [
