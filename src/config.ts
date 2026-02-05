@@ -10,7 +10,7 @@ export const siteConfig = {
     github: "https://github.com/OKleinman",
   },
   aboutMe:
-    "My work focuses on political and economic modeling, using data-driven analysis to understand strategic behavior in real-world settings. I’ve worked in both academic research and startup environments, and I’m comfortable with the goals, pace, and tools of each. Currently, I’m especially interested in how people and institutions make interactive decisions in public policy and economic contexts. In my free time, I like to paint and collect soviet watches.",
+    "My work focuses on political and economic modeling, using data analysis to understand strategic behavior. I’ve worked in both academic research and startup environments, and I’m comfortable with the goals, pace, and tools of each. Currently, I’m especially interested in how people and institutions make interactive decisions in public policy and economic contexts. In my free time, I like to paint and collect soviet watches.",
   skills: ["SQL/BigQuery", "R", "Python", "ArcGIS", "Behavioral Economics", "Optimization", "Communicatioon", "German", "Spanish"],
   projects: [
     {
