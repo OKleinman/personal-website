@@ -14,6 +14,13 @@ export const siteConfig = {
   skills: ["SQL/BigQuery", "R", "Python", "ArcGIS", "Behavioral Economics", "Optimization", "Communicatioon", "German", "Spanish"],
   projects: [
     {
+      name: "Nationalization Spatial Data Analysis",
+      description:
+        "Worked in R and ArcGIS, building repeatable pipelines for spatial joins, political data analysis, and visualization, supporting insights into nationalization within and across countries.",
+      link: "",
+      skills: ["R", "ArcGIS", "Communication"],
+    },
+    {
       name: "Fixed-Income and Annuities Instrument",
       description:
         "Developed fixed-income comparison instruments showing Charitable Gift Annuities are a more profitable financial vehicle than Commercial Annuities in 53% of age-tax-bracket pairings, yet remain underutilized, most likely due to poor marketing.",
@@ -26,13 +33,6 @@ export const siteConfig = {
         "Applied Word2Vec embeddings with LSTM and BiLSTM models to classify text by philosophical alignment using a corpus of philosophical texts with 89% accuracy.",
       link: "",
       skills: ["Python", "Optimization"],
-    },
-    {
-      name: "Nationalization Spatial Data Analysis",
-      description:
-        "Analyzed the nationalization levels of three countries across local and federal geographies, visualizing detailed trends in nationalization over time.",
-      link: "",
-      skills: ["R", "ArcGIS", "Communication"],
     },
   ],
   experience: [
@@ -62,7 +62,7 @@ export const siteConfig = {
       dateRange: "May 2024 - Aug 2024",
       bullets: [
         "Analyzed customer aqusition cost by aquision channel and identified the optimal aquision channels and promotions by user",
-        "Optimized search results and worked on a personalization algorythm using collaborative filtering",
+        "Optimized search results and worked on a personalization algorithm using collaborative filtering",
         "Collaborated on a live business analyitcs dashboard using Hex and BigQuery",
       ],
     },
