@@ -53,7 +53,7 @@ export const siteConfig = {
       bullets: [
         "Analyzed and visualized election data across multiple levels of geographies using spatial data analysis",
         "Developed instruments, pipelines, and visualizations to accelerate continued research",
-        "Integrated data and conclusions into existing research megastudy data",
+        "Integrated data and conclusions into existing megastudy",
       ],
     },
     {
@@ -61,9 +61,9 @@ export const siteConfig = {
       title: "Intern",
       dateRange: "May 2024 - Aug 2024",
       bullets: [
-        "Analyzed customer aqusition cost by aquision channel and identified the optimal aquision channels and promotions by user",
+        "Analyzed customer aqusition cost by acquisition channel and identified the optimal acquisition channels and promotions by user",
         "Optimized search results and worked on a personalization algorithm using collaborative filtering",
-        "Collaborated on a live business analyitcs dashboard using Hex and BigQuery",
+        "Collaborated on a live business analytics dashboard using Hex and BigQuery",
       ],
     },
   ],
