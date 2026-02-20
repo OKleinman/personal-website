@@ -1,7 +1,7 @@
 export const siteConfig = {
   name: "Oliver Kleinman",
   title: "Student researcher interested in modelling incentives, behavior, and strategic decision-making.",
-  description: "Personal website of Oliver Kleinman",
+  description: "Personal website of Oliver Kleinman, UPenn student researcher",
   accentColor: "#be1e2d",
   social: {
     email: "ok1@sas.upenn.edu",
