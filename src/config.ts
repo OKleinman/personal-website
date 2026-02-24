@@ -53,7 +53,7 @@ export const siteConfig = {
       bullets: [
         "Analyzed and visualized election data across multiple levels of geographies using spatial data analysis",
         "Developed instruments, pipelines, and visualizations to accelerate continued research",
-        "Integrated data and conclusions into existing megastudy",
+        "Worked in multiple languages across heterogeneous data sources",
       ],
     },
     {
